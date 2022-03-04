@@ -1,13 +1,13 @@
 {
-  "name": "دارك العربي",
-  "description": "⿻ سورس الحفرة افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @dar_k4",
-  "logo": "https://telegra.ph/file/2c7be8cd43924bb100d81.jpg",
+  "name": "سيلفا العربي",
+  "description": "⿻ سورس العربي افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────@SU_SELVA",
+  "logo": "https://telegra.ph/file/b03342dc56474dde49aa9.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Source12244/Dark",
+  "repository": "https://github.com/SelVa12345/SelVa",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/Source12244/Dark",
+      "value": "https://github.com/SelVa12345/SelVa",
       "required": false
     }
   },
