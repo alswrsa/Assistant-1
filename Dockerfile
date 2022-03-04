@@ -1,7 +1,7 @@
-FROM Source12244/Dark:alpine
+FROM SelVa12345/SelVa:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Source12244/Dark.git /root/userbot
+RUN git clone https://github.com/SelVa12345/SelVa.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
