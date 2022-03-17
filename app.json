@@ -60,7 +60,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description":  " السورس - لاتـغيره! ابدا  ",
+      "description":  "! السورس - لاتـغيره ابدا  ",
       "value": "https://github.com/JOKER-7X/Jthon",
       "required": false
     }
