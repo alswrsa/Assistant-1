@@ -1,34 +1,34 @@
 {
-  "name": "سيلفا العربي",
-  "description": "⿻ سورس العربي افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────@SU_SELVA",
-  "logo": "https://telegra.ph/file/b03342dc56474dde49aa9.jpg",
+  "name": "السورس جوكر سفن اكس تليثون",
+  "description": "⿻↬──────@J0KER_7x للمعرفة تنصيب سورس جوكر سفن اكس تليثون معرف قناتنا",
+  "logo": "https://telegra.ph/file/b57b9987809fd20dc2718.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SelVa12345/SelVa",
+  "repository": "https://github.com/JOKER-7X/Jthon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ادخل اسم حسابك التيلي هنا",
+      "description": "ضع اسمك الذي في تليجرام",
       "value": ""
     },
     "APP_ID": {
-      "description": "اب ايدي",
+      "description": "ضع الايبي ايدي هنا",
       "value": ""
     },
     "API_HASH": {
-      "description": "ايبي هاش",
+      "description": "ضع الايبي هاش هنا",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "كود التيرمكس - تروح ع حافظـة حسـابك التيلـي وتنسـخ الكـود الكبير",
+      "description": "ضع كود تيرمكس هنا",
       "value": ""
     },
     "ENV": {
-      "description": "لتغير بيها شي",
+      "description": "لا تغيـرها ابدا",
       "value": "ANYTHING"
     },
     "COMMAND_HAND_LER": {
@@ -37,7 +37,7 @@
       "required": false
     },
     "TG_BOT_USERNAME": {
-      "description": "معرف البوت",
+      "description": "ضع معرف البوت هنا",
       "value": ""
     },
     "TG_BOT_TOKEN": {
@@ -45,23 +45,23 @@
       "value": ""
     },
     "HEROKU_API_KEY": {
-      "description": "هيروكو ابي كي تنسخ الرابط وتفتح صفحه جديده وتروح ع آخر مربع وتلصقه هون تحت  https://dashboard.heroku.com/account",
+      "description": "هيروكو ابي كي من الرابط هتلاقيه تحت https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق ( خلي نفس اسم اول مربع فـوق وبالانكلـش وحروف كلهـا صغيره مو كبيره)",
+      "description": "اسم التطبيق ( لازم يكون نفس اول اسم من فوق طبعا الحروف كلها  بالانكلـش سمول)",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "منطقتك - عوفها ",
-      "value": "Asia/Baghdad",
+      "description": "الوقت ",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/SelVa12345/SelVa",
+      "description":  " السورس - لاتـغيره! ابدا  ",
+      "value": "https://github.com/JOKER-7X/Jthon",
       "required": false
     }
   },
