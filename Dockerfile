@@ -1,7 +1,7 @@
-FROM SelVa12345/SelVa:alpine
+FROM JOKER-7X/Jthon:alpine
 
 #clonning repo 
-RUN git clone https://github.com/SelVa12345/SelVa.git /root/userbot
+RUN git clone https://github.com/JOKER-7X/Jthon.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
