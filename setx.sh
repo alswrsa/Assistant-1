@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "
-          Selva
+          JOKER7X
 
-        𓍹 Visit @SU_SELVA for help 𓍻
+        𓍹 Visit @J0KER_7x for help 𓍻
 "
 
 python3 -m userbot
