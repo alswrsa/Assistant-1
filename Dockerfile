@@ -1,7 +1,7 @@
-FROM JOKER-7X/Jthon:alpine
+FROM JOKER-7X/Jthon21:alpine
 
 #clonning repo 
-RUN git clone https://github.com/JOKER-7X/Jthon.git /root/userbot
+RUN git clone https://github.com/JOKER-7X/Jthon21.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
