@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JOKER-7X/Jthon",
+  "repository": "https://github.com/JOKER-7X/Jthon21",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description":  "! السورس - لاتـغيره ابدا  ",
-      "value": "https://github.com/JOKER-7X/Jthon",
+      "value": "https://github.com/JOKER-7X/Jthon21",
       "required": false
     }
   },
