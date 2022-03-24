@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "
-          JOKER7X
+          SelVa
 
         𓍹 Visit @J0KER_7x for help 𓍻
 "
