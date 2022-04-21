@@ -1,13 +1,13 @@
 {
   "name": "SelVa",
-  "description": "⿻↬──────SelVa",
+  "description": "⿻↬──────reborter",
   "logo": "https://telegra.ph/file/b57b9987809fd20dc2718.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JOKER-7X/SelVa",
+  "repository": "https://github.com/alswrsa/reborter",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description":  "! السورس - لاتـغيره ابدا  ",
-      "value": "https://github.com/JOKER-7X/SelVa",
+      "value": "https://github.com/alswrsa/reborter",
       "required": false
     }
   },
